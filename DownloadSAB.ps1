@@ -1,0 +1,1 @@
+﻿wget https://flexerasoftware.flexnetoperations.com/control/inst/AnonymousDownload?dkey=13562237 -Outfile a.exe
